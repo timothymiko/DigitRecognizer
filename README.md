@@ -1,1 +1,2 @@
 # DigitRecognizer
+The goal of this project is to classify a handwritten single digit as a numerical value ranging from 0 to 9 inclusive. This project is a solution to the [Digit Recognizer](https://www.kaggle.com/c/digit-recognizer) competition hosted by Kaggle which uses the MNIST data set.
